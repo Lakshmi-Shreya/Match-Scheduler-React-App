@@ -14,7 +14,7 @@ https://tranquil-melomakarona-e0c758.netlify.app
 
 ## Features of the Web App
 1.Select Match Type ( Friendly Or Tournament)<br/>
-2.Schedule Match Start Date & Time and End Date & Time <br/>
+
 2.Schedule Match Start Date & Time and End Date & Time <br/>
 3.Selection of Match Location<br/>
 4.Finalizing Scheduling of football match with team 1 name and team 2 name (opponents name)
